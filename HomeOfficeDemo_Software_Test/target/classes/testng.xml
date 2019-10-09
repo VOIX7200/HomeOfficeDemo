@@ -1,0 +1,10 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Extent Reports">
+    <test name="LoginGoogleTest">
+        <classes>
+            <class name="TESTCASES.LoginGoogleTest"></class>
+        </classes>           
+    </test>    
+     
+</suite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite A" duration-ms="14576" started-at="2019-03-13T15:14:15 GMT" finished-at="2019-03-13T15:14:30 GMT">
+    <groups>
+    </groups>
+    <test name="GoogleSearchTest" duration-ms="14576" started-at="2019-03-13T15:14:15 GMT" finished-at="2019-03-13T15:14:30 GMT">
+      <class name="com.googletest.qa.test.GoogleSearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest@2cb4c3ab]" name="setUp" is-config="true" duration-ms="3841" started-at="2019-03-13T15:14:15 GMT" finished-at="2019-03-13T15:14:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleSearchTest2()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest@2cb4c3ab]" name="googleSearchTest2" duration-ms="10515" started-at="2019-03-13T15:14:19 GMT" finished-at="2019-03-13T15:14:29 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest@2cb4c3ab]" name="tearDown" is-config="true" duration-ms="168" started-at="2019-03-13T15:14:29 GMT" finished-at="2019-03-13T15:14:30 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.googletest.qa.test.GoogleSearchTest -->
+    </test> <!-- GoogleSearchTest -->
+  </suite> <!-- Suite A -->
+  <suite name="MySuite" duration-ms="0" started-at="2019-03-13T15:14:30 GMT" finished-at="2019-03-13T15:14:30 GMT">
+    <groups>
+    </groups>
+  </suite> <!-- MySuite -->
+</testng-results>

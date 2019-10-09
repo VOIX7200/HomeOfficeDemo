@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98765" started-at="2019-08-01T20:43:14Z" finished-at="2019-08-01T20:44:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98765" started-at="2019-08-01T20:43:14Z" finished-at="2019-08-01T20:44:53Z">
+      <class name="com.googletest.qa.test.GoogleSearchTest_ff">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="setUp" is-config="true" duration-ms="4194" started-at="2019-08-01T21:43:14Z" finished-at="2019-08-01T21:43:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleSearchTest1()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="googleSearchTest1" duration-ms="80860" started-at="2019-08-01T21:43:18Z" finished-at="2019-08-01T21:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="tearDown" is-config="true" duration-ms="2138" started-at="2019-08-01T21:44:39Z" finished-at="2019-08-01T21:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="setUp" is-config="true" duration-ms="3371" started-at="2019-08-01T21:44:41Z" finished-at="2019-08-01T21:44:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="googleSearchTest2()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="googleSearchTest2" duration-ms="7178" started-at="2019-08-01T21:44:45Z" finished-at="2019-08-01T21:44:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.googletest.qa.test.GoogleSearchTest_ff@56cbfb61]" name="tearDown" is-config="true" duration-ms="1005" started-at="2019-08-01T21:44:52Z" finished-at="2019-08-01T21:44:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.googletest.qa.test.GoogleSearchTest_ff -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+##Things that I would like to improve with the current test.
+
+1. There is one absolute Xpath in GoogleSearchPage which I would like to make relative
+
+2. I would also like to chain the pages in the test flow.
+
+3. I was also going to set up cross browser test runs
+
+4. The day i submitted the test, the search suddenly start returning 5 elements instead of 10
+   and i wanted to trouble shoot that.
+   
+5. I would like to add Logging using Log4J
+
+Note: Do these and add to new Git Hub
